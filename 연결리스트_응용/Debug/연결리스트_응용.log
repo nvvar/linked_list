@@ -1,0 +1,3 @@
+﻿  연결리스트_응용.cpp
+c:\users\dsm2018\source\repos\c언어_고급_1\연결리스트_응용\연결리스트_응용.cpp(36): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  연결리스트_응용.vcxproj -> C:\Users\DSM2018\source\repos\c언어_고급_1\Debug\연결리스트_응용.exe
